@@ -7,6 +7,6 @@ function App() {
     <Content /> 
     </div>
   );
-}
+} 
 
 export default App;
